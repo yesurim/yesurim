@@ -1,7 +1,5 @@
 # 노유림 | Data · AI 
 
----
-
 ##  Interests
 
 - Data Analysis & Machine Learning
