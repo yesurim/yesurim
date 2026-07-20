@@ -8,16 +8,33 @@
 
 ---
 
-## Tech Stack
 
-**Language & Analysis**
-`Python` `SQL` 
+##  Tech Stack
 
-**AI / LLM / RAG**
-`OpenAI API` `Hugging Face` `Prompt Engineering` `Multi-turn` `Function Calling` `AI Agent Workflow` 
+**Language**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square)
+
+**AI / Modeling**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2E5C8A?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1C3D5A?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-3B7A57?style=flat-square)
+
+**LLM Application**
+
+![RAG](https://img.shields.io/badge/RAG-1C7C54?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B4B4B?style=flat-square)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-4B4B4B?style=flat-square)
 
 **Backend / Infra**
-`FastAPI` `Streamlit` `MySQL` `FAISS` 
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
 
 
 ---
@@ -84,5 +101,5 @@
 
 ##  Contact
 
-- **Email**: nyr97830506@gmail.com
-- **GitHub**: 
+- **Email**: [nyr97830506@gmail.com](mailto:nyr97830506@gmail.com)
+- **GitHub**: [@yesurim](https://github.com/yesurim)
