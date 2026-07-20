@@ -4,7 +4,7 @@
 
 - Data Analysis & Machine Learning
 - Data Engineering & Preprocessing
-- LLM / AI Agent  RAG  
+- LLM / AI Agent / RAG  
 
 ---
 
