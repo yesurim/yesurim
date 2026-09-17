@@ -4,8 +4,8 @@
 
 - Data Analysis & Machine Learning
 - Data Engineering & Preprocessing
-- LLM / AI Agent / RAG  
-
+- LLM / AI Agent / RAG
+  
 ---
 
 
@@ -91,16 +91,17 @@
 | --- | --- | --- |
 | 2026.03 ~ 현재 | 데이터 분석 동아리 **MOMENTUM** | 스터디·공모전·프로젝트 참여, 정규 데이터 분석 세션 참여 및 후속 기수 세션 운영 예정 |
 | 2023.05 ~ 현재 | 독서 토론 동아리 **Minerva** | 부회장 2년·회장 1년, 공식 Notion 페이지 제작·관리(일정·회의록·독서 목록·토론 자료 정리) |
+| 2026.09 ~ 현재 | **GDGoC Sangmyung**(Google Developer Groups on Campus) | AI 팀 Core Member |
 
 ##  Certifications
 
 | 자격 | 취득 | 주관 |
 | --- | --- | --- |
 | 빅데이터분석기사 | 2025.07 | 한국데이터산업진흥원 |
-
+| 정보처리기사 | 2026.09 | 과학기술정보통신부 |
 ---
 
 ##  Contact
-
+- **LinkedIn**: [linkedin.com/in/yesurim](https://www.linkedin.com/in/yesurim/)
 - **Email**: [yesurimm@gmail.com](mailto:yesurimm@gmail.com)
 - **GitHub**: [@yesurim](https://github.com/yesurim)
